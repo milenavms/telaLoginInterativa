@@ -1,9 +1,9 @@
 ## telaLoginInterativa
 
- :pencil: ### Tecnologias
+### :pencil: Tecnologias
 
 * **HTML5**
 * **CSS3**
 * **JS**
 
-:point_right: [TelaLoginInterativa](https://milenavms.github.io/telaLoginInterativa/)
+#### :point_right: [TelaLoginInterativa](https://milenavms.github.io/telaLoginInterativa/)
